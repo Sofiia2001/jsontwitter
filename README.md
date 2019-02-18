@@ -61,6 +61,6 @@ EXAMPLE OF USE:
     import friend_json
 
 
-    print(friend_json.get_friend_leng('user_friends.json'))
+    print(friend_json.get_friend_lang('user_friends.json'))
 
     This part of code will print out 'uk'
