@@ -1,5 +1,5 @@
-This module is created to let programmers divide the .json format file created with Twitter API about a user
-into categories by keys. With calling specific function, it returns a specific part of a file.
+This module is created to let programmers to get data from .json format file created with Twitter API.
+With calling specific function, it returns a specific part of a file.
 
 HELP:
 
@@ -57,6 +57,7 @@ HELP:
     e.g. 'friends.json'
 
 EXAMPLE OF USE:
+
     import friend_json
 
 
